@@ -25,5 +25,6 @@ How to Use
 
 - For more detail download project and run.
 
+Note : Code is in Objective C but you can use it in Swift project via Bridge
 
 
