@@ -27,4 +27,5 @@ How to Use
 
 Note : Code is in Objective C but you can use it in Swift project via Bridge
 
+Edited by Tejas
 
